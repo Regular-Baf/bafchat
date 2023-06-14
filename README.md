@@ -21,4 +21,4 @@ The recommended model as of right now is [RedPajama-INCITE-Chat-3B-v1](https://h
 * Fabric
 * Minecraft 1.20 and newer
 #### Slight issues
-* If the API is hosted on the same machine as your Minecraft server (which includes the client if playing singleplayer) and there is no system in place to limit CPU utilisation below 100% for the LLM's server, your game may temporarily slow down while the prompt is processed.
+* If the API is hosted on the same machine as your Minecraft server (which includes the client if playing singleplayer) and your computer isn't particularly powerful, your game may temporarily slow down while the prompt is processed. Using smaller, and quantised language models can help counteract this.
