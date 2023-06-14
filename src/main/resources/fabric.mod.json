@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "bafmod3",
-	"version": "23.06",
+	"version": "23.06.1",
 	"name": "Bafchat",
 	"description": "Local AI with a Minecraft front-end.",
 	"authors": [
